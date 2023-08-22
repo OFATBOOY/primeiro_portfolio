@@ -92,7 +92,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/home.jpeg') no-repeat;
+    background: url('/primeiro_portfolio/images/home.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -503,6 +503,7 @@ span{
     width: 90%;
 }
 
+/**********************************************************************************************/
 
 .skills-columns:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
     width: 95%;
